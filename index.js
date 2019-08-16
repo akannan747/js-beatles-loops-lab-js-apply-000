@@ -13,5 +13,10 @@ function johnLennonFacts(facts) {
     facts[i] += "!!!"
     i++;
   }
-  return facts
+  return facts;
+}
+
+function iLoveTheBeatles(num) {
+  let arr = [];
+  
 }
